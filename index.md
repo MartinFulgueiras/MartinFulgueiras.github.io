@@ -1,2 +1,2 @@
-www.fulgueiras.pe/index.html
-www.fulgueiras.pe/publicaorg.html
+https://fulgueiras.pe/index.html</br>
+https://fulgueiras.pe/publicaorg.html</br>
